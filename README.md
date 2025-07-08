@@ -24,7 +24,7 @@ Google Cloud Platform (GCP), Amazon Web Services (AWS)
 Docker
 
 **Other Tools**  
-Redis, Excel, JWT
+Redis, Excel, JWT, Arduíno
 
 
 📚 A Bit More
