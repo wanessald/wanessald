@@ -1,4 +1,10 @@
-Hi! I'm Wanessa Melgar — someone who's always been creative and curious, now bringing that energy into tech. I started out in Fashion Design, but today I’m diving deep into backend development and DevOps while studying Information Systems. I’m especially into automation, APIs, microservices, and building things in the cloud.
+Hi! I'm Wanessa Melgar 👋
+Backend Engineer in training with a strong focus on **data, system integration, and applied AI**.
+
+I’m currently studying Information Systems (8th semester) and working with **Python, FastAPI, Django, Node.js, REST APIs**, and databases like **PostgreSQL, MySQL, MongoDB, and Oracle (PL/SQL)**. I have hands-on experience with **exploratory data analysis**, corporate systems (payroll and financial data), and backend support in production environments.
+
+I enjoy building practical solutions involving **LLMs, RAG, automation, system integration, and cloud/DevOps fundamentals** (Docker, IaC, CI/CD).
+Always learning, building, and improving — especially where data and backend engineering meet.
 
 
 🧠 How I Work & What I Care About
